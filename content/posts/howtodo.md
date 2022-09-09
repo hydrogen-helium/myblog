@@ -110,7 +110,7 @@ description: ""
 
 ​&ensp;&ensp;​&ensp;&ensp;2013年，各个媒体首次开始使用“史上最难毕业季”一词，时间走到了今天，随着经济的下行和就业环境的恶化，高校“蓄水池”“缓冲带”的特征越来越明显。
 
-<img src="/static/images/howtodo/2.jpg" alt="YPM" style="zoom:50%;" />
+<img src="/images/howtodo/2.jpg" alt="YPM" style="zoom:50%;" />
 
 ​&ensp;&ensp;​&ensp;&ensp;在高等教育不断普及的背景下，大学生的数量只会越来越多，大学生的数量占比将会越来越高。作为学生的个体的话语权被稀释，而非百年前的学生对于社会秩序的前进方向有着极大分量的代表性。
 
@@ -164,7 +164,7 @@ description: ""
 
 ​&ensp;&ensp;​&ensp;&ensp;在教育资源丰富的地区，学生升学的筹码变得更加丰富了，比如各种兴趣特长班，技能，比赛奖项，甚至是家庭背景都可以包含进来，连家长也被直接卷入了这场关于考试和升学的游戏中。举一极端例子，在上海，有小孩幼升小时其资料中甚至出现了家长为其准备的15张PPT简历。
 
-<img src="/static/images/howtodo/3.jpg" alt="PPT" style="zoom: 80%;" />
+<img src="/images/howtodo/3.jpg" alt="PPT" style="zoom: 80%;" />
 
 ​&ensp;&ensp;​&ensp;&ensp;而在今年五月，苏州教育局因为当地疫情原因，决定提前放暑假并已经下发了文件，但是因为部分家长闹事而更改了计划，暑假放假时间延后。导致学生在长时间上网课后，因为情绪爆发和与家长冲突而发生了多起跳楼的惨剧。
 
