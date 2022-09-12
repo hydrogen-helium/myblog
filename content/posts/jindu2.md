@@ -3,7 +3,7 @@ title: "[生活组织学]生活组织学概论(初版)"
 subtitle: ""
 date: 2022-09-11T16:31:25+08:00
 lastmod: 2022-09-11T16:31:25+08:00
-tags: ["生活组织学","精神分析"，"拉康"]
+tags: ["生活组织学","精神分析","拉康"]
 draft: false
 categories: ["生活组织学"]
 description: ""
